@@ -1,0 +1,60 @@
+H:\Сист.Прог\Оа и п\WindowsFormsAppGraph\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\Сист.Прог\Оа и п\WindowsFormsAppGraph\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\Сист.Прог\Оа и п\WindowsFormsAppGraph\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\Сист.Прог\Оа и п\WindowsFormsAppGraph\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+H:\Сист.Прог\Оа и п\WindowsFormsAppGraph\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+H:\Сист.Прог\Оа и п\WindowsFormsAppGraph\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\Сист.Прог\Оа и п\WindowsFormsAppGraph\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\Сист.Прог\Оа и п\WindowsFormsAppGraph\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\Сист.Прог\Оа и п\WindowsFormsAppGraph\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\Сист.Прог\Оа и п\WindowsFormsAppGraph\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\дз\ОАиП\ОАиП\WindowsFormsAppGraph\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\дз\ОАиП\ОАиП\WindowsFormsAppGraph\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\дз\ОАиП\ОАиП\WindowsFormsAppGraph\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\дз\ОАиП\ОАиП\WindowsFormsAppGraph\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\дз\ОАиП\ОАиП\WindowsFormsAppGraph\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\дз\ОАиП\ОАиП\WindowsFormsAppGraph\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\дз\ОАиП\ОАиП\WindowsFormsAppGraph\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\дз\ОАиП\ОАиП\WindowsFormsAppGraph\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\дз\ОАиП\ОАиП\WindowsFormsAppGraph\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\дз\ОАиП\ОАиП\WindowsFormsAppGraph\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Реналь\Desktop\учёба\ОАиП\WindowsFormsAppGraph1\WindowsFormsAppGraphRenal\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Реналь\Desktop\учёба\ОАиП\WindowsFormsAppGraph1\WindowsFormsAppGraphRenal\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Реналь\Desktop\учёба\ОАиП\WindowsFormsAppGraph1\WindowsFormsAppGraphRenal\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Реналь\Desktop\учёба\ОАиП\WindowsFormsAppGraph1\WindowsFormsAppGraphRenal\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Реналь\Desktop\учёба\ОАиП\WindowsFormsAppGraph1\WindowsFormsAppGraphRenal\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Реналь\Desktop\учёба\ОАиП\WindowsFormsAppGraph1\WindowsFormsAppGraphRenal\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Реналь\Desktop\учёба\ОАиП\WindowsFormsAppGraph1\WindowsFormsAppGraphRenal\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Реналь\Desktop\учёба\ОАиП\WindowsFormsAppGraph1\WindowsFormsAppGraphRenal\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Реналь\Desktop\учёба\ОАиП\WindowsFormsAppGraph1\WindowsFormsAppGraphRenal\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Реналь\Desktop\учёба\ОАиП\WindowsFormsAppGraph1\WindowsFormsAppGraphRenal\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Моё\ОАиП\WindowsFormsAppGraphRenal\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Моё\ОАиП\WindowsFormsAppGraphRenal\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Моё\ОАиП\WindowsFormsAppGraphRenal\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Моё\ОАиП\WindowsFormsAppGraphRenal\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Моё\ОАиП\WindowsFormsAppGraphRenal\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Моё\ОАиП\WindowsFormsAppGraphRenal\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Моё\ОАиП\WindowsFormsAppGraphRenal\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Моё\ОАиП\WindowsFormsAppGraphRenal\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Моё\ОАиП\WindowsFormsAppGraphRenal\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Моё\ОАиП\WindowsFormsAppGraphRenal\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Wendy\Desktop\WindowsFormsAppGraphRenal\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Wendy\Desktop\WindowsFormsAppGraphRenal\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Wendy\Desktop\WindowsFormsAppGraphRenal\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Wendy\Desktop\WindowsFormsAppGraphRenal\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Wendy\Desktop\WindowsFormsAppGraphRenal\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Wendy\Desktop\WindowsFormsAppGraphRenal\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Wendy\Desktop\WindowsFormsAppGraphRenal\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Wendy\Desktop\WindowsFormsAppGraphRenal\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Wendy\Desktop\WindowsFormsAppGraphRenal\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Wendy\Desktop\WindowsFormsAppGraphRenal\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\учёба\3 курс\СП\Матрица смежности и Флойд\Матрица смежности и Флойд\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\учёба\3 курс\СП\Матрица смежности и Флойд\Матрица смежности и Флойд\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\учёба\3 курс\СП\Матрица смежности и Флойд\Матрица смежности и Флойд\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\учёба\3 курс\СП\Матрица смежности и Флойд\Матрица смежности и Флойд\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\учёба\3 курс\СП\Матрица смежности и Флойд\Матрица смежности и Флойд\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\учёба\3 курс\СП\Матрица смежности и Флойд\Матрица смежности и Флойд\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\учёба\3 курс\СП\Матрица смежности и Флойд\Матрица смежности и Флойд\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\учёба\3 курс\СП\Матрица смежности и Флойд\Матрица смежности и Флойд\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\учёба\3 курс\СП\Матрица смежности и Флойд\Матрица смежности и Флойд\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\учёба\3 курс\СП\Матрица смежности и Флойд\Матрица смежности и Флойд\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
