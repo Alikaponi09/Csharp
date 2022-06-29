@@ -1,0 +1,49 @@
+D:\PB-31 Давыдова и Адаменко\дз\дз\bin\Debug\дз.exe.config
+D:\PB-31 Давыдова и Адаменко\дз\дз\bin\Debug\дз.exe
+D:\PB-31 Давыдова и Адаменко\дз\дз\bin\Debug\дз.pdb
+D:\PB-31 Давыдова и Адаменко\дз\дз\obj\Debug\дз.Form1.resources
+D:\PB-31 Давыдова и Адаменко\дз\дз\obj\Debug\дз.Properties.Resources.resources
+D:\PB-31 Давыдова и Адаменко\дз\дз\obj\Debug\дз.csproj.GenerateResource.cache
+D:\PB-31 Давыдова и Адаменко\дз\дз\obj\Debug\дз.csproj.CoreCompileInputs.cache
+D:\PB-31 Давыдова и Адаменко\дз\дз\obj\Debug\дз.exe
+D:\PB-31 Давыдова и Адаменко\дз\дз\obj\Debug\дз.pdb
+C:\Users\Wendy\Desktop\дз\дз\bin\Debug\дз.exe.config
+C:\Users\Wendy\Desktop\дз\дз\bin\Debug\дз.exe
+C:\Users\Wendy\Desktop\дз\дз\bin\Debug\дз.pdb
+C:\Users\Wendy\Desktop\дз\дз\obj\Debug\дз.csproj.AssemblyReference.cache
+C:\Users\Wendy\Desktop\дз\дз\obj\Debug\дз.Form1.resources
+C:\Users\Wendy\Desktop\дз\дз\obj\Debug\дз.Properties.Resources.resources
+C:\Users\Wendy\Desktop\дз\дз\obj\Debug\дз.csproj.GenerateResource.cache
+C:\Users\Wendy\Desktop\дз\дз\obj\Debug\дз.csproj.CoreCompileInputs.cache
+C:\Users\Wendy\Desktop\дз\дз\obj\Debug\дз.exe
+C:\Users\Wendy\Desktop\дз\дз\obj\Debug\дз.pdb
+C:\Users\Wendy\Desktop\Programm\дз\дз\bin\Debug\дз.exe.config
+C:\Users\Wendy\Desktop\Programm\дз\дз\bin\Debug\дз.exe
+C:\Users\Wendy\Desktop\Programm\дз\дз\bin\Debug\дз.pdb
+C:\Users\Wendy\Desktop\Programm\дз\дз\obj\Debug\дз.csproj.AssemblyReference.cache
+C:\Users\Wendy\Desktop\Programm\дз\дз\obj\Debug\дз.Form1.resources
+C:\Users\Wendy\Desktop\Programm\дз\дз\obj\Debug\дз.Properties.Resources.resources
+C:\Users\Wendy\Desktop\Programm\дз\дз\obj\Debug\дз.csproj.GenerateResource.cache
+C:\Users\Wendy\Desktop\Programm\дз\дз\obj\Debug\дз.csproj.CoreCompileInputs.cache
+C:\Users\Wendy\Desktop\Programm\дз\дз\obj\Debug\дз.exe
+C:\Users\Wendy\Desktop\Programm\дз\дз\obj\Debug\дз.pdb
+G:\Мой диск\Аквт\ПБ-31\Давыдова и Адаменко\дз\дз\bin\Debug\дз.exe.config
+G:\Мой диск\Аквт\ПБ-31\Давыдова и Адаменко\дз\дз\bin\Debug\дз.exe
+G:\Мой диск\Аквт\ПБ-31\Давыдова и Адаменко\дз\дз\bin\Debug\дз.pdb
+G:\Мой диск\Аквт\ПБ-31\Давыдова и Адаменко\дз\дз\obj\Debug\дз.csprojAssemblyReference.cache
+G:\Мой диск\Аквт\ПБ-31\Давыдова и Адаменко\дз\дз\obj\Debug\дз.Form1.resources
+G:\Мой диск\Аквт\ПБ-31\Давыдова и Адаменко\дз\дз\obj\Debug\дз.Properties.Resources.resources
+G:\Мой диск\Аквт\ПБ-31\Давыдова и Адаменко\дз\дз\obj\Debug\дз.csproj.GenerateResource.cache
+G:\Мой диск\Аквт\ПБ-31\Давыдова и Адаменко\дз\дз\obj\Debug\дз.csproj.CoreCompileInputs.cache
+G:\Мой диск\Аквт\ПБ-31\Давыдова и Адаменко\дз\дз\obj\Debug\дз.exe
+G:\Мой диск\Аквт\ПБ-31\Давыдова и Адаменко\дз\дз\obj\Debug\дз.pdb
+E:\Моё\учёба\сп\дз\дз\bin\Debug\дз.exe.config
+E:\Моё\учёба\сп\дз\дз\bin\Debug\дз.exe
+E:\Моё\учёба\сп\дз\дз\bin\Debug\дз.pdb
+E:\Моё\учёба\сп\дз\дз\obj\Debug\дз.csproj.AssemblyReference.cache
+E:\Моё\учёба\сп\дз\дз\obj\Debug\дз.Form1.resources
+E:\Моё\учёба\сп\дз\дз\obj\Debug\дз.Properties.Resources.resources
+E:\Моё\учёба\сп\дз\дз\obj\Debug\дз.csproj.GenerateResource.cache
+E:\Моё\учёба\сп\дз\дз\obj\Debug\дз.csproj.CoreCompileInputs.cache
+E:\Моё\учёба\сп\дз\дз\obj\Debug\дз.exe
+E:\Моё\учёба\сп\дз\дз\obj\Debug\дз.pdb

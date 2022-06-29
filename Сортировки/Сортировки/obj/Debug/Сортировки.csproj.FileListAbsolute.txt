@@ -1,0 +1,14 @@
+C:\Users\Wendy\Desktop\Сортировки\Сортировки\bin\Debug\Сортировки.exe.config
+C:\Users\Wendy\Desktop\Сортировки\Сортировки\bin\Debug\Сортировки.exe
+C:\Users\Wendy\Desktop\Сортировки\Сортировки\bin\Debug\Сортировки.pdb
+C:\Users\Wendy\Desktop\Сортировки\Сортировки\obj\Debug\Сортировки.csproj.AssemblyReference.cache
+C:\Users\Wendy\Desktop\Сортировки\Сортировки\obj\Debug\Сортировки.csproj.CoreCompileInputs.cache
+C:\Users\Wendy\Desktop\Сортировки\Сортировки\obj\Debug\Сортировки.exe
+C:\Users\Wendy\Desktop\Сортировки\Сортировки\obj\Debug\Сортировки.pdb
+E:\Моё\учёба\сп\Сортировки\Сортировки\bin\Debug\Сортировки.exe.config
+E:\Моё\учёба\сп\Сортировки\Сортировки\bin\Debug\Сортировки.exe
+E:\Моё\учёба\сп\Сортировки\Сортировки\bin\Debug\Сортировки.pdb
+E:\Моё\учёба\сп\Сортировки\Сортировки\obj\Debug\Сортировки.csproj.AssemblyReference.cache
+E:\Моё\учёба\сп\Сортировки\Сортировки\obj\Debug\Сортировки.csproj.CoreCompileInputs.cache
+E:\Моё\учёба\сп\Сортировки\Сортировки\obj\Debug\Сортировки.exe
+E:\Моё\учёба\сп\Сортировки\Сортировки\obj\Debug\Сортировки.pdb
